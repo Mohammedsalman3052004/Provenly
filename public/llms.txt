@@ -1,0 +1,14 @@
+# Provenly
+
+> Provenly is a project portfolio dashboard and client work tracker for freelancers, developers, designers and agencies. Users create separate dashboards, define their own project fields, view projects in a table, gallery, board or timeline, see weekly/monthly/quarterly/yearly analytics, and share read-only links where chosen fields (such as price) are hidden server-side.
+
+## Key facts
+- Sign in with Google or email and password; no email verification.
+- Each dashboard has its own fields, projects and share links.
+- Share links can hide fields, require a password, expire, and be revoked.
+- Public profile pages (/u/username) show delivery heatmaps and project counts only.
+
+## Pages
+- Home: /
+- Sign up: /signup
+- Sign in: /login
